@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+	android:padding="16dp"
+    android:orientation="vertical">
+
+	<RelativeLayout
+		android:layout_width="match_parent"
+		android:layout_height="match_parent">
+
+		<TextView
+			android:id="@+id/mid"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginStart="20dp"
+			android:layout_marginLeft="20dp"
+			android:layout_marginTop="20dp"
+			android:layout_marginEnd="20dp"
+			android:layout_marginRight="20dp"
+			android:layout_marginBottom="20dp"
+			android:text="New Book Wish List"
+			android:textColor="#000000"
+			android:textSize="25sp"
+			android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/add_edittext"
+			android:layout_below="@+id/mid"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:layout_weight="1"
+			android:textColor="#000"
+			android:textColorHint="#000"
+            android:hint="Book title."
+            android:padding="12dp"
+            android:background="@drawable/rounded_bg_3" 
+	android:layout_marginEnd="10dp"
+	android:maxLines="1"
+			android:layout_marginRight="10dp" />
+
+	<EditText
+		android:id="@+id/add_author"
+		android:layout_below="@+id/add_edittext"
+		android:layout_width="match_parent"
+		android:textColorHint="#000"
+		android:layout_height="56dp"
+		android:layout_weight="1"
+		android:hint="Author Name"
+		android:layout_marginTop="20dp"
+		android:textColor="#000"
+		android:padding="12dp"
+		android:background="@drawable/rounded_bg_3"
+		android:layout_marginEnd="10dp"
+		android:maxLines="1"
+		android:layout_marginRight="10dp" />
+
+	<Spinner
+		android:id="@+id/add_genre"
+		android:layout_below="@+id/add_author"
+		android:layout_width="match_parent"
+		android:layout_height="56dp"
+		android:layout_weight="1"
+		android:layout_marginTop="20dp"
+		android:padding="12dp"
+		android:background="@drawable/rounded_bg_3"
+		android:layout_marginEnd="10dp"
+		android:layout_marginRight="10dp" />
+
+
+		<EditText
+			android:id="@+id/add_year"
+			android:inputType="number"
+			android:maxLength="4"
+			android:layout_below="@+id/add_genre"
+			android:layout_width="match_parent"
+			android:layout_height="56dp"
+			android:layout_weight="1"
+			android:textColor="#000"
+			android:hint="Publication year"
+			android:layout_marginTop="20dp"
+			android:padding="12dp"
+			android:background="@drawable/rounded_bg_3"
+			android:layout_marginEnd="10dp"
+			android:maxLines="1"
+			android:textColorHint="#000"
+			android:layout_marginRight="10dp" />
+
+		<!--displaying a radio group on below line-->
+		<RadioGroup
+			android:id="@+id/radioGroup"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_below="@+id/add_year"
+			android:layout_gravity="center"
+			android:layout_marginStart="10dp"
+			android:layout_marginTop="4dp"
+			android:layout_marginEnd="10dp"
+			android:gravity="start">
+
+			<!--adding a radio button -->
+			<RadioButton
+				android:id="@+id/unread"
+				android:layout_width="200dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="start"
+				android:checked="true"
+				android:padding="4dp"
+				android:textColor="#000"
+				android:text="Unread"
+				android:textSize="20sp" />
+
+			<!--adding a radio button -->
+			<RadioButton
+				android:id="@+id/read"
+				android:layout_width="200dp"
+				android:layout_height="wrap_content"
+				android:layout_gravity="start"
+				android:checked="false"
+				android:padding="4dp"
+				android:textColor="#000"
+				android:text="Read"
+				android:textSize="20sp" />
+
+			<!--adding a button -->
+
+
+		</RadioGroup>
+		<androidx.appcompat.widget.AppCompatButton
+			android:id="@+id/buttonAdd"
+			android:layout_width="match_parent"
+			android:layout_height="40dp"
+			android:background="@color/myPrimary"
+			android:layout_marginTop="20dp"
+			android:padding="8dp"
+			android:foregroundGravity="center_vertical"
+			android:textAlignment="center"
+			android:textColorHint="#000"
+			android:textColor="#000"
+			android:text="Add Book"
+			android:layout_below="@+id/radioGroup"
+			android:gravity="center_horizontal" />
+			
+	</RelativeLayout>
+</androidx.core.widget.NestedScrollView>

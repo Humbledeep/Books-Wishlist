@@ -1,0 +1,11 @@
+com.app.bookwishlist.app-coordinatorlayout-1.0.0-0 /Users/humbledeepsingh/.gradle/caches/transforms-3/11a2394bc724050df03056431e1ca4fa/transformed/coordinatorlayout-1.0.0/res
+com.app.bookwishlist.app-appcompat-1.0.0-1 /Users/humbledeepsingh/.gradle/caches/transforms-3/2e24cf3f6f2e9d745aec910c88e1ee51/transformed/appcompat-1.0.0/res
+com.app.bookwishlist.app-recyclerview-1.0.0-2 /Users/humbledeepsingh/.gradle/caches/transforms-3/4e74b86e0204c9a9d8f383a734640fc7/transformed/recyclerview-1.0.0/res
+com.app.bookwishlist.app-core-1.0.0-3 /Users/humbledeepsingh/.gradle/caches/transforms-3/f3e89dc41163cf884934e16910abd3c3/transformed/core-1.0.0/res
+com.app.bookwishlist.app-pngs-4 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/build/generated/res/pngs/debug
+com.app.bookwishlist.app-resValues-5 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/build/generated/res/resValues/debug
+com.app.bookwishlist.app-mergeDebugResources-6 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.app.bookwishlist.app-mergeDebugResources-7 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.app.bookwishlist.app-merged_res-8 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/build/intermediates/merged_res/debug
+com.app.bookwishlist.app-debug-9 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/src/debug/res
+com.app.bookwishlist.app-main-10 /Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/src/main/res

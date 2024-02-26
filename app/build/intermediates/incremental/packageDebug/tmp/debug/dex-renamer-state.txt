@@ -1,0 +1,4 @@
+#Fri Feb 16 14:38:28 MST 2024
+base.0=/Users/humbledeepsingh/Documents/CMPUT_301/humblede-MyBookWishList/Code/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

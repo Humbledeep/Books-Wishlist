@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xhdpi_ic_plus.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-hdpi_ic_notebook_outline.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-hdpi/ic_notebook_outline.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxxhdpi_ic_notebook_outline.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxxhdpi/ic_notebook_outline.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-ldpi_ic_notebook_outline.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-ldpi/ic_notebook_outline.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-mdpi_ic_notebook_outline.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-mdpi/ic_notebook_outline.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-anydpi-v21_ic_delete.xml.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-anydpi-v21/ic_delete.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xhdpi_ic_account.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xhdpi/ic_account.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-ldpi_ic_account.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-ldpi/ic_account.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-mdpi_ic_search.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-mdpi/ic_search.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-hdpi_ic_delete.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-hdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-ldpi_ic_menu.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-ldpi/ic_menu.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxxhdpi_ic_plus.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-ldpi_ic_delete.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-ldpi/ic_delete.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxxhdpi_ic_account.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxxhdpi/ic_account.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable_rounded_bg_2.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/drawable/rounded_bg_2.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/layout_activity_edit.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/layout/activity_edit.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-hdpi_ic_plus.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-hdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-anydpi-v21_ic_notebook_outline.xml.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-anydpi-v21/ic_notebook_outline.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable_ic_reload.png.flat",
+        "source": "com.app.bookwishlist.app-main-10:/drawable/ic_reload.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-anydpi-v21_ic_menu.xml.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-anydpi-v21/ic_menu.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-ldpi_ic_search.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-ldpi/ic_search.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-mdpi_ic_menu.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-mdpi/ic_menu.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-hdpi_ic_search.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-hdpi/ic_search.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxhdpi_ic_plus.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxhdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxxhdpi_ic_search.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xhdpi_ic_notebook_outline.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xhdpi/ic_notebook_outline.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxhdpi_ic_search.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-anydpi-v21/ic_search.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xhdpi_ic_search.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xhdpi/ic_search.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-hdpi_ic_account.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-hdpi/ic_account.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xhdpi_ic_menu.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xhdpi/ic_menu.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-mdpi_ic_delete.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-mdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-mdpi_ic_account.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-mdpi/ic_account.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxxhdpi_ic_menu.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/layout_activity_main.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable_ic_edit.png.flat",
+        "source": "com.app.bookwishlist.app-main-10:/drawable/ic_edit.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/layout_book_item.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/layout/book_item.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-ldpi_ic_plus.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-ldpi/ic_plus.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-anydpi-v21_ic_account.xml.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-anydpi-v21/ic_account.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxhdpi_ic_account.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxhdpi/ic_account.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxhdpi_ic_notebook_outline.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxhdpi/ic_notebook_outline.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-mdpi_ic_plus.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-mdpi/ic_plus.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable_rounded_bg_3.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/drawable/rounded_bg_3.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxxhdpi_ic_delete.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-hdpi_ic_menu.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-hdpi/ic_menu.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable_ic_launcher.png.flat",
+        "source": "com.app.bookwishlist.app-main-10:/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xhdpi_ic_delete.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable_rounded_bg.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxhdpi_ic_menu.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxhdpi/ic_menu.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-xxhdpi_ic_delete.png.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-xxhdpi/ic_delete.png"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/drawable-anydpi-v21_ic_plus.xml.flat",
+        "source": "com.app.bookwishlist.app-pngs-4:/drawable-anydpi-v21/ic_plus.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/layout_activity_record.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/layout/activity_record.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/layout_activity_splash.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.app.bookwishlist.app-merged_res-8:/layout_activity_detail.xml.flat",
+        "source": "com.app.bookwishlist.app-main-10:/layout/activity_detail.xml"
+    }
+]
